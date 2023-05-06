@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	text-align:center;
+}
+
+body{
+	background-color:lightblue;
+}
+
+table{
+	margin: auto;
+	border: 2px gray;
+	
+}
+
+table td{
+	text-align:center;
+	border:1px dotted black;
+}
+
+table .bot{
+	margin: auto;
+	padding:0 5px;
+	display:inline;
+	border:0;
+
+}
+
+table .primera_fila{
+	margin: auto;
+	padding: auto;
+	font-size:1.5em;
+	text-align:center;
+	color:white;
+	background-color:rgb(2, 75, 99);
+}
+
+table .opciones{
+	font-size:1.5em;
+	text-align:center;
+}
+
